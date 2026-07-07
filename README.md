@@ -44,7 +44,7 @@ Don't want to print it yourself?
 | Full BNF | $299 | Complete drone, bind and fly |
 | Ultimate bundle | $499 | BNF + 4× Li-ion packs + smart charger |
 
-**[Order at adamaas.com/nomad →](https://adamaas.com/product/nomad)**
+**[Order at adamaas.com/product/nomad →](https://adamaas.com/product/nomad)**
 
 ---
 
