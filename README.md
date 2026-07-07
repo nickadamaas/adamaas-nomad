@@ -1,5 +1,4 @@
 # ADAMAAS Nomad
-
 > 5" long-range FPV drone — open-source frame files
 
 **[adamaas.com](https://adamaas.com)** · **[Order a printed frame or full kit](https://adamaas.com/product/nomad)**
@@ -33,9 +32,23 @@ minimal noise without exotic prices or fragile carbon.
 
 ---
 
+## Parts list
+
+| Component | Model | Notes |
+|---|---|---|
+| Frame | ADAMAAS Nomad (this repo) | PCTG 3D printed |
+| Flight controller + ESC | SpeedyBee F405 Mini Stack | 35A 4-in-1, 20×20mm |
+| Motors | 2204 2300KV (×4) | Optimized for 3S |
+| Propellers | 5×3 three-blade polycarbonate | |
+| FPV system | DJI O4 Lite | |
+| Receiver | RadioMaster RP3 | ExpressLRS 2.4GHz |
+| Battery | ADAMAAS 3S Li-ion pack | Hand-built, 30C 18650 cells |
+
+---
+
 ## Order a kit
 
-Don't want to print it yourself?
+Don't want to print the frame or source the electronics yourself?
 
 | Tier | Price | Includes |
 |---|---|---|
