@@ -17,7 +17,7 @@ minimal noise without exotic prices or fragile carbon.
 - 20–30+ minute flight time
 - Fits 2204 motors and 20×20mm stack
 - DJI O4 Lite or analog FPV
-- ExpressLRS 2.4GHz (RadioMaster RP3)
+- ExpressLRS 2.4GHz
 
 ---
 
