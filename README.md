@@ -37,11 +37,11 @@ minimal noise without exotic prices or fragile carbon.
 | Component | Model | Notes |
 |---|---|---|
 | Frame | ADAMAAS Nomad (this repo) | PCTG 3D printed |
-| Flight controller + ESC | SpeedyBee F405 Mini Stack | 35A 4-in-1, 20×20mm |
+| Flight controller + ESC | Flywoo GOKU Pro Mini Stack - F7 FC + 45A 2-6S AM32 4-in-1 ESC | 20×20mm |
 | Motors | 2204 2300KV (×4) | Optimized for 3S |
 | Propellers | 5×3 three-blade polycarbonate | |
 | FPV system | DJI O4 Lite | |
-| Receiver | RadioMaster RP3 | ExpressLRS 2.4GHz |
+| Receiver | BETAFPV ELRS 2.4GHz Nano Receiver | ExpressLRS 2.4GHz |
 | Battery | ADAMAAS 3S Li-ion pack | Hand-built, 30C 18650 cells |
 
 ---
