@@ -66,10 +66,10 @@ Don't want to print the frame or source the electronics yourself?
 
 | Tier | Price | Includes |
 |---|---|---|
-| Printed frame | $25 | PCTG frame, ready to assemble |
-| Electronics kit | $215 | Motors, FC/ESC stack, receiver | 
-| Full Kit | $275 | Complete drone, Electronics + Battery + Frame |
-| Ultimate bundle | $399 | BNF + 4× Li-ion packs + smart charger |
+| Printed frame | $29 | PCTG frame, Hardware, ready to assemble |
+| Electronics kit | $199 | Motors, FC/ESC stack, receiver, 5x3 (3-blade) Props | 
+| Full Kit | $269 | PCTG frame, Electronics + Battery + (VTX not included)|
+| Ultimate bundle | $449 | BNF + 4× Li-ion packs + smart charger (VTX Included)|
 
 **[Order at adamaas.com/product/nomad →](https://adamaas.com/product/nomad)**
 
