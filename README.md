@@ -68,8 +68,8 @@ Don't want to print the frame or source the electronics yourself?
 |---|---|---|
 | Printed frame | $29 | PCTG frame, Hardware, ready to assemble |
 | Electronics kit | $199 | Motors, FC/ESC stack, receiver, 5x3 (3-blade) Props | 
-| Full Kit | $269 | PCTG frame, Electronics + Battery + (VTX not included)|
-| Ultimate bundle | $449 | BNF + 4× Li-ion packs + smart charger (VTX Included)|
+| Full Kit | $269 | PCTG frame, Electronics + Battery|
+| Ultimate bundle | $449 | BNF + 4× Li-ion packs + DJI 04|
 
 **[Order at adamaas.com/product/nomad →](https://adamaas.com/product/nomad)**
 
