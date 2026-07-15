@@ -48,16 +48,15 @@ minimal noise without exotic prices or fragile carbon.
 
 ## Hardware
 
-| Qty | Item | Notes |
-|---|---|---|
-| ×4 | M3 × 10mm | |
-| ×6 | M3 × 8mm | |
-| ×8 | M3 × 25mm | Or 20mm if using embedded nuts |
-| ×8 | M3 Nut | |
-| ×2 | M3 × 20mm | |
-| ×6 | M2 × 16mm | |
-| — | 20 AWG wire | |
-| ×4 | Zip ties | |
+| Qty | Item |
+|---|---|
+| ×4 | M3 × 10mm |
+| ×6 | M3 × 8mm |
+| ×10 | M3 × 20mm |
+| ×8 | M3 Nut |
+| ×6 | M2 × 16mm |
+| — | 20 AWG wire |
+| ×4 | Zip ties |
 
 ---
 
