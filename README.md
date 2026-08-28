@@ -16,7 +16,7 @@ minimal noise without exotic prices or fragile carbon.
 - ~556g all-up weight
 - 20–30+ minute flight time
 - Fits 2204 motors and 20x20mm stack
-- DJI O4 Air Unit
+- DJI O4 Air Unit (not the Pro)
 - ExpressLRS 2.4GHz
 - Flywoo GOKU GM10 Pro V3 GPS with compass
 
@@ -41,7 +41,7 @@ minimal noise without exotic prices or fragile carbon.
 | Flight controller + ESC | Flywoo GOKU F722 Pro Mini V2 stack (F7 FC + 45A AM32 4-in-1 ESC) | 20x20mm |
 | Motors | Feichao 2204 2300KV (x4) | 2–3S, 5" props |
 | Propellers | 5x3 three-blade polycarbonate | |
-| FPV system | DJI O4 Air Unit | |
+| FPV system | DJI O4 Air Unit (not the Pro) | Official name is O4 Air Unit |
 | O4 coax | Flywoo O4 / O4 Pro coaxial cable | |
 | Receiver | BETAFPV ELRS 2.4GHz Nano Receiver | ExpressLRS 2.4GHz |
 | GPS | Flywoo GOKU GM10 Pro V3 GPS w/ compass | |
@@ -76,7 +76,7 @@ Don't want to print the frame or source the electronics yourself?
 | Printed frame | $29 | PCTG frame, hardware, ready to assemble |
 | Electronics kit | $199 | Motors, FC/ESC stack, receiver, GPS, 5x3 (3-blade) props |
 | Full kit | $269 | PCTG frame, electronics + Auline 3S Li-ion pack |
-| Ultimate bundle | $449 | BNF + 4x Li-ion packs + DJI O4 |
+| Ultimate bundle | $449 | BNF + 4x Li-ion packs + DJI O4 Air Unit |
 
 **[Order at adamaas.com/product/nomad →](https://adamaas.com/product/nomad)**
 
