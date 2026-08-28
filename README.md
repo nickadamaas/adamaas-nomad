@@ -9,15 +9,16 @@
 
 The Nomad is a hand-crafted, open-source 5-inch FPV quad engineered for
 silent endurance, smooth cinematic footage, and DIY resilience. Built around
-a lightweight custom PCTG frame, efficient 2204 motors on 5×3 props, and a
-3S Li-ion pack — it's the go to rig for pilots who want maximum airtime and
+a lightweight custom PCTG frame, efficient 2204 motors on 5x3 props, a
+Flywoo GPS/compass, and a 3S Li-ion pack — it's the go-to rig for pilots who want maximum airtime and
 minimal noise without exotic prices or fragile carbon.
 
 - ~556g all-up weight
 - 20–30+ minute flight time
-- Fits 2204 motors and 20×20mm stack
-- DJI O4 Lite or analog FPV
+- Fits 2204 motors and 20x20mm stack
+- DJI O4 Air Unit
 - ExpressLRS 2.4GHz
+- Flywoo GOKU GM10 Pro V3 GPS with compass
 
 ---
 
@@ -25,8 +26,8 @@ minimal noise without exotic prices or fragile carbon.
 
 | File | Description | Download |
 |---|---|---|
-| `nomad.3mf` | Bambu Studio project — open and print on P1S / P1P, all settings included | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.3mf) |
-| `nomad-full-assembly.step` | Full assembly for CAD remixing | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/nomad-full-assembly.zip) |
+| `adamaas-nomad.3mf` | Bambu Studio project — open and print on P1S / P1P, all settings included | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.3mf) |
+| `nomad-full-assembly.zip` | Full assembly (STEP) for CAD remixing | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/nomad-full-assembly.zip) |
 
 > **Material:** PCTG — tougher and more impact-resistant than PETG.
 
@@ -37,26 +38,32 @@ minimal noise without exotic prices or fragile carbon.
 | Component | Model | Notes |
 |---|---|---|
 | Frame | ADAMAAS Nomad (this repo) | PCTG 3D printed |
-| Flight controller + ESC | Flywoo GOKU Pro Mini Stack - F7 FC + 45A 2-6S AM32 4-in-1 ESC | 20×20mm |
-| Motors | 2204 2300KV (×4) | Optimized for 3S |
-| Propellers | 5×3 three-blade polycarbonate | |
-| FPV system | DJI O4 Lite | |
+| Flight controller + ESC | Flywoo GOKU F722 Pro Mini V2 stack (F7 FC + 45A AM32 4-in-1 ESC) | 20x20mm |
+| Motors | Feichao 2204 2300KV (x4) | 2–3S, 5" props |
+| Propellers | 5x3 three-blade polycarbonate | |
+| FPV system | DJI O4 Air Unit | |
+| O4 coax | Flywoo O4 / O4 Pro coaxial cable | |
 | Receiver | BETAFPV ELRS 2.4GHz Nano Receiver | ExpressLRS 2.4GHz |
-| Battery | ADAMAAS 3S Li-ion pack | Hand-built, 30C 18650 cells |
+| GPS | Flywoo GOKU GM10 Pro V3 GPS w/ compass | |
+| Battery | Auline V45 3S 3000mAh Li-ion (XT30) | Replaces the in-house ADAMAAS pack |
 
 ---
 
 ## Hardware
 
+36-piece fastener set per airframe:
+
 | Qty | Item |
 |---|---|
-| ×4 | M3 × 10mm |
-| ×6 | M3 × 8mm |
-| ×10 | M3 × 20mm |
-| ×8 | M3 Nut |
-| ×6 | M2 × 16mm |
+| x2 | M2 x 8mm |
+| x2 | M2 x 16mm |
+| x2 | M2 nut |
+| x4 | M3 x 8mm |
+| x6 | M3 x 10mm |
+| x12 | M3 x 20mm |
+| x8 | M3 nut |
 | — | 20 AWG wire |
-| ×4 | Zip ties |
+| x4 | Zip ties |
 
 ---
 
@@ -66,10 +73,10 @@ Don't want to print the frame or source the electronics yourself?
 
 | Tier | Price | Includes |
 |---|---|---|
-| Printed frame | $29 | PCTG frame, Hardware, ready to assemble |
-| Electronics kit | $199 | Motors, FC/ESC stack, receiver, 5x3 (3-blade) Props | 
-| Full Kit | $269 | PCTG frame, Electronics + Battery|
-| Ultimate bundle | $449 | BNF + 4× Li-ion packs + DJI 04|
+| Printed frame | $29 | PCTG frame, hardware, ready to assemble |
+| Electronics kit | $199 | Motors, FC/ESC stack, receiver, GPS, 5x3 (3-blade) props |
+| Full kit | $269 | PCTG frame, electronics + Auline 3S Li-ion pack |
+| Ultimate bundle | $449 | BNF + 4x Li-ion packs + DJI O4 |
 
 **[Order at adamaas.com/product/nomad →](https://adamaas.com/product/nomad)**
 
