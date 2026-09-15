@@ -27,8 +27,7 @@ minimal noise without exotic prices or fragile carbon.
 | File | Description | Download |
 |---|---|---|
 | `adamaas-nomad.3mf` | Bambu Studio project - open and print on P1S / P1P, all settings included | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.3mf) |
-| `adamaas-nomad.step` | Full airframe assembly (single STEP) for CAD remixing | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.step) |
-| `adamaas-nomad-stand.step` | Stand only (STEP) | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad-stand.step) |
+| `adamaas-nomad.step` | Full assembly STEP (airframe + stand) for CAD remixing | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.step) |
 
 > **Material:** PCTG - tougher and more impact-resistant than PETG.
 
