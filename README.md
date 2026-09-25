@@ -26,10 +26,12 @@ minimal noise without exotic prices or fragile carbon.
 
 | File | Description | Download |
 |---|---|---|
-| `adamaas-nomad.3mf` | Bambu Studio project - open and print on P1S / P1P, all settings included | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.3mf) |
+| `adamaas-nomad.3mf` | Default Bambu Studio project (PCTG) — recommended; open and print on P1S / P1P, all settings included | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.3mf) |
+| `adamaas-nomad-PCTG.3mf` | PCTG print profile | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad-PCTG.3mf) |
+| `adamaas-nomad-PETG.3mf` | PETG print profile (MakerWorld-compatible stock filament) | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad-PETG.3mf) |
 | `adamaas-nomad.step` | Full assembly STEP (airframe + stand) for CAD remixing | [Download](https://github.com/nickadamaas/adamaas-nomad/raw/main/adamaas-nomad.step) |
 
-> **Material:** PCTG - tougher and more impact-resistant than PETG.
+> **Material:** PCTG is preferred — tougher and more impact-resistant than PETG. A PETG profile is provided as an alternate for MakerWorld / stock filament.
 
 ---
 
